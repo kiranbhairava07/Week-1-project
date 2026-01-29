@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Ana",
+    "lastName": "Ionescu",
+    "email": "ana@example.com",
+    "phone": "+40 700 000 001",
+    "address": "Bucharest"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "email": "rahul@example.com",
+    "phone": "+91 98765 43210",
+    "address": "Mumbai"
+  }
+]
